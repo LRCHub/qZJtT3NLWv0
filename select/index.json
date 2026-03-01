@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "GEMSTONE",
+  "base_artist": "的場梨沙 (CV: 集貝はな)",
+  "createdAt": "2026-03-01T10:38:23.412084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gemstone Bullets Poppin Out The Tech",
+      "artist": "Yung Bruh",
+      "has_synced": false,
+      "path": "select/01_Gemstone_Bullets_Poppin_Out_The_Tech_Yung_Bruh.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gemstone Bullets Poppin Out The Tech",
+      "artist": "Lil Tracy",
+      "has_synced": false,
+      "path": "select/02_Gemstone_Bullets_Poppin_Out_The_Tech_Lil_Tracy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gemstone",
+      "artist": "MIYAVI feat. SKY-HI",
+      "has_synced": true,
+      "path": "select/03_Gemstone_MIYAVI_feat._SKY-HI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gemstone",
+      "artist": "MIYAVI",
+      "has_synced": true,
+      "path": "select/04_Gemstone_MIYAVI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gemstone",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/05_Gemstone_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gemstone",
+      "artist": "MIYAVI vs SKY-HI",
+      "has_synced": true,
+      "path": "select/06_Gemstone_MIYAVI_vs_SKY-HI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gemstone",
+      "artist": "MIYAVI vs SKY‐HI",
+      "has_synced": true,
+      "path": "select/07_Gemstone_MIYAVI_vs_SKY‐HI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gemstone",
+      "artist": "MIYAVI; SKY‐HI",
+      "has_synced": true,
+      "path": "select/08_Gemstone_MIYAVI;_SKY‐HI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "gemstone feat. Puppet",
+      "artist": "4s4ki",
+      "has_synced": true,
+      "path": "select/09_gemstone_feat._Puppet_4s4ki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gemstone",
+      "artist": "MIYAVI & SKY-HI",
+      "has_synced": true,
+      "path": "select/10_Gemstone_MIYAVI_&_SKY-HI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "gemstone",
+      "artist": "4s4ki",
+      "has_synced": true,
+      "path": "select/11_gemstone_4s4ki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "gemstone",
+      "artist": "4s4ki; Puppet",
+      "has_synced": true,
+      "path": "select/12_gemstone_4s4ki;_Puppet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gemstone",
+      "artist": "MIYAVI",
+      "has_synced": true,
+      "path": "select/13_Gemstone_MIYAVI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GEMSTONE",
+      "artist": "的場梨沙(集貝はな)",
+      "has_synced": false,
+      "path": "select/pl_01_GEMSTONE_的場梨沙(集貝はな).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "GEMSTONE (TV SIZE)",
+      "artist": "的場梨沙(集貝はな)",
+      "has_synced": false,
+      "path": "select/pl_02_GEMSTONE_(TV_SIZE)_的場梨沙(集貝はな).txt"
+    }
+  ]
+}
